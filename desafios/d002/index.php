@@ -24,6 +24,7 @@
             echo "<p>Número sorteado: <strong>$numeroSorteado</strong></p>";
         }
         ?>
+        <button onclick="javascript:document.location.reload()">Gerar Outro</button>
     </main>
 </body>
 </html>
