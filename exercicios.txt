@@ -1,0 +1,15 @@
+Desafio 6 – Anatomia de uma Divisão: o aluno deve simular uma divisão com quociente e resto, organizando visualmente os dados do cálculo, incluindo dividendo, divisor, resultado e sobra;
+
+Desafio 7 – Salário Mínimo: calcula quantos salários mínimos cabem em um determinado valor de salário informado, exibindo também o valor que sobra;
+
+Desafio 8 – Raízes de um Número: calcula e exibe a raiz quadrada e a raiz cúbica de um número, com exemplos de resultados exatos e decimais;
+
+Desafio 9 – Médias Aritméticas: realiza o cálculo da média simples e da média ponderada de duas notas com pesos distintos, reforçando a lógica matemática envolvida;
+
+Desafio 10 – Cálculo de Idade: com base no ano de nascimento informado, o sistema calcula a idade atual ou a idade em qualquer outro ano, utilizando a data do servidor;
+
+Desafio 11 – Reajustando Preços: simula o reajuste de preço de um produto, aplicando um percentual de aumento e mostrando o novo valor, com ou sem barra deslizante (range);
+
+Desafio 12 – Calculadora de Tempo: converte um total de segundos em semanas, dias, horas, minutos e segundos, explorando divisão inteira e resto de forma prática;
+
+Desafio 13 – Caixa Eletrônico: simula um saque em um caixa eletrônico, mostrando quantas notas de cada valor serão entregues com base no valor informado, considerando as cédulas disponíveis.
