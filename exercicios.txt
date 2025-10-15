@@ -1,3 +1,5 @@
+Mundo 01 - Introdução ao PHP 
+
 Desafio 6 – Anatomia de uma Divisão: o aluno deve simular uma divisão com quociente e resto, organizando visualmente os dados do cálculo, incluindo dividendo, divisor, resultado e sobra;
 
 Desafio 7 – Salário Mínimo: calcula quantos salários mínimos cabem em um determinado valor de salário informado, exibindo também o valor que sobra;
@@ -13,3 +15,61 @@ Desafio 11 – Reajustando Preços: simula o reajuste de preço de um produto, a
 Desafio 12 – Calculadora de Tempo: converte um total de segundos em semanas, dias, horas, minutos e segundos, explorando divisão inteira e resto de forma prática;
 
 Desafio 13 – Caixa Eletrônico: simula um saque em um caixa eletrônico, mostrando quantas notas de cada valor serão entregues com base no valor informado, considerando as cédulas disponíveis.
+
+
+
+Mundo 02 - Estruturas de Controle
+
+1 – Escreva um algoritmo em PHP que receba duas notas, calcule a média e exiba para o usuário a média se ela for maior que 7; caso contrário, exiba “Aluno reprovado”.
+
+2 – Escreva um algoritmo em PHP que receba um número, acrescente 8%, divida o total por 10 e utilizando um laço de repetição imprima na tela da seguinte maneira: 1ª parcela =  R$ 100 / 2ª parcela = R$ 100
+
+3 – Escreva um algoritmo em PHP que leia 2 números inteiros e mostre qual deles é o menor
+
+4 – Escreva um algoritmo em PHP que calcule a área de uma circunferência a partir do valor do raio fornecido pelo usuário
+
+5 – Escreva um algoritmo em PHP que receba o preço de dois produtos. Calcule um desconto de 8% no primeiro produto, 11% no segundo e apresente o valor final a ser pago
+
+6 – Escreva um algoritmo em PHP que receba dois valores e exiba o intervalo entre eles. Considere sempre começar do menor para o maior
+
+7 – Escreva um algoritmo em PHP que receba uma temperatura em graus Celsius e apresente a temperatura convertida em graus Fahrenheit. Fórmula de conversão é F = (9 * C + 160) / 5, sendo F a temperatura em Fahrenheit e C a temperatura em Celsius
+
+8 – Escreva um algoritmo em PHP que receba dois números (início e fim). Se o número do início for menor que o fim, escreva os números do menor para o maior; caso contrário, do maior para o menor.
+
+9 – (DESAFIO) Escreva um algoritmo em PHP que imprima na tela os números de 0 a 10, com exceção do 7.
+
+10 – (DESAFIO) Faça um programa que receba um número e verifique se ele é par ou ímpar.
+
+1 – Escreva um programa que calcule a área de uma circunferência a partir dos dados fornecidos pelo usuário.
+
+2 – Escreva um programa que receba o valor de um produto e calcule um desconto de 7%, exibindo para o usuário o valor original, o valor do desconto e o valor com o desconto.
+
+3 – Escreva um programa para calcular o volume do paralelepípedo a partir dos valores fornecido pelo usuário.
+
+4 – Escreva um programa que receba o nome e o ano de nascimento de uma pessoa. Calcule quantos anos essa pessoa fará este ano e apresente para o usuário da seguinte maneira a seguir:
+
+5 – Escreva um programa que receba o preço de dois produtos. Calcule um desconto de 8% no primeiro produto, 11% no segundo e apresente o valor final a ser pago.
+
+6 – Escreva um programa que receba uma temperatura em graus Celsius e apresente a temperatura convertida em graus Fahrenheit. Fórmula de conversão é F = (9 * C + 160) / 5, sendo F a temperatura em Fahrenheit e C a temperatura em Celsius.
+
+7 – Escreva um algoritmo que receba duas notas, calcule a média e exiba para o usuário a média se ela for maior que 7; caso contrário, exiba “Aluno reprovado”.
+
+8 – Escreva um algoritmo que leia a altura e o peso de uma pessoa, calcule o seu IMC (Índice de Massa Corporal) e exiba para o usuário.
+
+9 – Faça um programa que receba um nome, sexo e idade de uma pessoa.
+
+Se a pessoa for do sexo masculino e tiver 18 anos, exiba a mensagem: “Fulano, você já pode realizar o seu alistamento militar”;
+Se a pessoa for do sexo masculino e tiver menos de 18 anos, exiba a mensagem: “Fulano, você só pode ser alistar quando completar 18 anos”;
+Se a pessoa for do sexo feminino, exiba a mensagem: “Fulana, você não pode se alistar”.
+10 – Crie uma interface em HTML que receba três valores: a, b e c; Em seguida, desenvolva um programa em PHP que receba esses valores e através da fórmula de Bhaskara calcule os valores x1 e x2 da equação. Exemplo:
+
+Observações:
+
+Equações do 2ºgrau devem satisfazer a condição ax² + bx + c = 0; com a, b e c sendo números reais e a ≠ 0;
+Uma equação do 2º grau pode ter no máximo duas raízes (soluções) reais, a condição de existência das raízes dependerá do valor de delta. De acordo com o seu valor podemos ter as seguintes situações:
+ delta < 0, não possui raízes reais.
+ delta = 0, possui duas raízes reais idênticas.
+ delta > 0, possui duas raízes reais e distintas. 
+Para calcular delta crie uma function passando como parâmetros os valores de a, b e c;
+Se o valor de delta for menor que zero, exiba a mensagem “Sendo delta menor que zero não existem raízes reais”.
+Pesquise por uma função nativa do PHP para calcular a raíz quadrada de delta.
